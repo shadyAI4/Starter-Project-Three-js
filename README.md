@@ -10,3 +10,5 @@ TO run the project using the following command
 ---  parcel ./src/test.html
 ---  parcel ./src/index.html
 ```
+
+### Possible Errors on running the parcel above can be soved by deleting the parcel-cache folder
